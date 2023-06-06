@@ -1,0 +1,12 @@
+.card {
+  width: 100%;
+  box-shadow: 0 0 5px 0 rgb(171, 171, 171);
+  display: flex;
+  flex-direction: column;
+  padding: 20px 15px;
+  border-radius: 8px;
+  margin: 15px 0;
+}
+.card h2 {
+  margin-bottom: 8px;
+}
